@@ -31,7 +31,7 @@
    ```
 2. **Navigate** to the project folder:
    ```bash
-   cd band-name-generator
+   cd taco-truck
    ```
 3. **Install** dependencies:
    ```bash
